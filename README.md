@@ -138,7 +138,8 @@ The **CRM Laptop Rental Management System** is a centralized platform designed t
 With a user-friendly interface and backend automation, this application aims to improve customer satisfaction and operational efficiency while driving revenue growth.
 
 ---
-
+## *Video Link*
+For a detailed demonstration video click here: 🎥 [Video Demo](https://drive.google.com/file/d/1bobFvYNC17c9Ovdk13Ymgt_FWPmjUWsE/view?usp=sharing)
 ## Contact
 
 For more details, reach out to:  
